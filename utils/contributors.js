@@ -32,6 +32,12 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/subodhk01",
+    },    {
+        handle_name: 'Prathamesh2118',
+        name: "Prathamesh Dongarkar",
+        image: "/images/prathamm.jpg",
+        description: "Hello everyone, this is the first card. Trying my hands on git and its usage!!!",
+        github: "https://github.com/Prathamesh2118",
     },
 ];
 
